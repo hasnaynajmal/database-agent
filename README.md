@@ -12,4 +12,6 @@
 
 ```pip install -r requirements.txt```
 
+## Set your Environmental Variables
+
 # You Are Good To Go
